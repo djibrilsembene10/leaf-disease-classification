@@ -7,7 +7,7 @@
 
 Pipeline **Deep Learning (TensorFlow/Keras)** pour la **classification** de maladies foliaires sur arbres fruitiers à partir d'images RGB, avec recherche d'hyperparamètres et validation croisée stratifiée.
 
-> 🔒 **Note sur la confidentialité** : ce projet a été développé dans le cadre d'un CDD à l'INRAE Bordeaux Nouvelle-Aquitaine. Le dataset original ainsi qu'une partie du code sont hébergés sur un dépôt GitLab privé (INRAE) pour des raisons de confidentialité. Ce dépôt public présente la méthodologie, le pipeline et les résultats obtenus, sans les données propriétaires.
+> 🔒 **Note sur la confidentialité** : ce projet a été développé à l'INRAE Bordeaux Nouvelle-Aquitaine. Le dataset original ainsi qu'une partie du code sont hébergés sur un dépôt GitLab privé (INRAE) pour des raisons de confidentialité. Ce dépôt public présente la méthodologie, le pipeline et les résultats obtenus, sans les données propriétaires.
 
 ---
 
