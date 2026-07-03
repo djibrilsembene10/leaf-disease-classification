@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & modèles (ne jamais versionner les données privées)
+data/
+*.pt
+*.pth
+*.h5
+*.onnx
+checkpoints/
+runs/
+
+# Environnement
+.env
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
